@@ -11,3 +11,11 @@ This code contains a quick analysis on the stackoverflow developers survey 2022 
 3) Does working experience determine salary
 
 To run : run the main.ipynb file
+
+**Libraries**
+numpy==1.23.5
+matplotlib==3.6.3
+seaborn==0.11.2
+scipy==1.7.1
+pandas==1.5.3
+
