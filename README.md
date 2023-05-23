@@ -12,21 +12,21 @@ This code contains a quick analysis on the stackoverflow developers survey 2022 
 
 To run : run the main.ipynb file
 
-**files**
-.gitignore : ignored local files
-main.ipynb : main code
-readme.md  : project explanation
+**files**\
+.gitignore : ignored local files\
+main.ipynb : main code\
+readme.md  : project explanation\
+\
+in /data\
+README_2022.txt         : dataset information\
+Research questions      : explanation of research questions\
 
-in /data
-README_2022.txt         : dataset information
-Research questions      : explanation of research questions
 
-
-**Libraries**
-numpy==1.23.5
-matplotlib==3.6.3
-seaborn==0.11.2
-scipy==1.7.1
+**Libraries**\
+numpy==1.23.5\
+matplotlib==3.6.3\
+seaborn==0.11.2\
+scipy==1.7.1\
 pandas==1.5.3
 
 **Main results**
@@ -34,5 +34,5 @@ pandas==1.5.3
 2) Does working experience determine salary : False: no significant correlation between working experience and salary
 3) Do people managers make more money than single contributer, irrespective of their working experience : False: no significant difference between salaries of PM's and IC's within the same work experience group
 
-**Acknowledgement**
+**Acknowledgement**\
 dataset credit: Stackoverflow developers survey 2022
